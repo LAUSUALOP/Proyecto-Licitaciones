@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+fpdf
+PyPDF2
+reportlab
+python-multipart
+streamlit pillow
+requests
+selenium
+beautifulsoup4
+httpx
